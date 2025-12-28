@@ -17,8 +17,8 @@
 ## Introduction
 Proyek ini berfokus pada analisis data lagu di Spotify untuk mengidentifikasi pola dan faktor utama yang memengaruhi popularitas lagu. Dengan memanfaatkan berbagai teknik seperti Exploratory Data Analysis (EDA), pembersihan data, dan penerapan algoritma pembelajaran mesin, proyek ini bertujuan memberikan wawasan kepada konsumen untuk membuat keputusan yang lebih baik terkait playlist dan rekomendasi musik. Selain itu, proyek ini juga bertujuan memprediksi popularitas lagu sehingga konsumen dapat mengantisipasi lagu baru yang berpotensi menjadi hits. Proyek ini dilaksanakan oleh dua mahasiswa Universitas Muhammadiyah Malang dalam rangka memenuhi tugas mata kuliah Analisis Big Data. Berikut adalah informasi anggota tim:
 
-1. Rania Alfita Salma (202110370311378)
-2. Ellys Rahma Putri Bintoro (202110370311468)
+1. Ellys Rahma Putri Bintoro (202110370311468)
+2. Rania Alfita Salma (202110370311378)
 
 
 ## Problem
@@ -93,5 +93,5 @@ Untuk memulai proyek ini, pastikan Anda telah menginstal semua package yang dibu
 Repository ini dibuat dengan akses penuh.
 
 ## Team
-- [Rania Alfita Salma](https://github.com/RaniaAlfita)
 - [Ellys Rahma Putri Bintoro](https://github.com/ellys15)
+- [Rania Alfita Salma](https://github.com/RaniaAlfita)
