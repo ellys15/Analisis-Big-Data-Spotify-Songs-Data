@@ -77,7 +77,7 @@ Untuk memulai proyek ini, pastikan Anda telah menginstal semua package yang dibu
 
 1. **Clone repository** ini ke mesin lokal Anda:
    ```bash
-   git clone https://github.com/ellys15/Mini-Project-Spotify-Songs-Data.git
+   git clone https://github.com/ellys15/Analisis-Big-Data-Spotify-Songs-Data.git
    ```
 
 2. **Instal dependencies/package** menggunakan `pip`:
